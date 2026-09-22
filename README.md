@@ -160,7 +160,6 @@ VLAN 50 → Servers
     <img src="https://img.shields.io/badge/📄%20Open-VLAN%20Configuration-0F172A?style=for-the-badge&logo=cisco&logoColor=white" alt="Open VLAN Configuration"/>
   </a>
 </p>
----
 
 # 🔹 Access Ports
 
