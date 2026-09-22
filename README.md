@@ -148,10 +148,18 @@ VLAN 50 → Servers
 | 40 | Management | 192.168.40.0/24 |
 | 50 | Servers | 192.168.50.0/24 |
 
-Detailed configuration:
+<h3>⚙️ Detailed Configuration</h3>
 
-[📄 View VLAN Configuration](documentation/vlan-configuration.md)
+<p>
+  Explore the complete VLAN setup, including VLAN creation,
+  port assignments, and configuration commands.
+</p>
 
+<p>
+  <a href="documentation/vlan-configuration.md">
+    <img src="https://img.shields.io/badge/📄%20Open-VLAN%20Configuration-0F172A?style=for-the-badge&logo=cisco&logoColor=white" alt="Open VLAN Configuration"/>
+  </a>
+</p>
 ---
 
 # 🔹 Access Ports
