@@ -78,7 +78,7 @@ The network contains:
 
 ## 🗺️ Network Topology
 
-![Network Topology](images/topology.png)
+![Network Topology](images/topology.png.png)
 
 ---
 
